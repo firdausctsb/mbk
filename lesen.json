@@ -1,1 +1,100 @@
-[{"kod":"H","nama":"LESEN RUMAH TAMU","kategori":-1,"sensitif":"A","modOpr":"123456001234","modDate":"2022-03-01T05:36:40.000+0000"},{"kod":"LJ","nama":"LESEN TETAP PENJAJA","kategori":-1,"sensitif":"A","modOpr":"1129","modDate":"2022-01-25T06:35:00.000+0000"},{"kod":"LP","nama":"LESEN TETAP PELESENAN","kategori":-1,"sensitif":"A","modOpr":"2176","modDate":"2022-01-07T07:16:05.000+0000"},{"kod":"PB","nama":"PERMIT BANGUNAN","kategori":-1,"sensitif":"A","modOpr":"4102","modDate":"2022-01-28T09:10:43.000+0000"},{"kod":"PJ","nama":"PERMIT PENJAJA","kategori":-1,"sensitif":"A","modOpr":"1129","modDate":"2022-01-25T06:35:35.000+0000"},{"kod":"PL","nama":"PERMIT PELESENAN","kategori":-1,"sensitif":"A","modOpr":null,"modDate":null},{"kod":"PR","nama":"SEWA TAPAK IKLAN (TOL)","kategori":-1,"sensitif":"A","modOpr":null,"modDate":null},{"kod":"PS","nama":"PERMIT STRUKTUR PAPAN IKLAN","kategori":-1,"sensitif":"A","modOpr":null,"modDate":null},{"kod":"R","nama":"LESEN SEMENTARA PEMUTIHAN  LUAR BANDAR","kategori":-1,"sensitif":"A","modOpr":null,"modDate":null},{"kod":"S","nama":"LESEN SEMENTARA (PENJAJA)","kategori":-1,"sensitif":"A","modOpr":null,"modDate":null},{"kod":"T","nama":"LESEN SEMENTARA PEMUTIHAN BANDAR","kategori":-1,"sensitif":"A","modOpr":null,"modDate":null},{"kod":"Z","nama":"LESEN SEMENTARA (PELESENAN)","kategori":-1,"sensitif":"A","modOpr":"inshirah","modDate":"2021-12-22T07:09:32.000+0000"}]
+{
+  "lesen":[
+    {
+      "kod":"H",
+      "nama":"LESEN RUMAH TAMU",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":"123456001234",
+      "modDate":"2022-03-01T05:36:40.000+0000"
+    },
+    {
+      "kod":"LJ",
+      "nama":"LESEN TETAP PENJAJA",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":"1129",
+      "modDate":"2022-01-25T06:35:00.000+0000"
+    },
+    {
+      "kod":"LP",
+      "nama":"LESEN TETAP PELESENAN",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":"2176",
+      "modDate":"2022-01-07T07:16:05.000+0000"
+    },
+    {
+      "kod":"PB",
+      "nama":"PERMIT BANGUNAN",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":"4102",
+      "modDate":"2022-01-28T09:10:43.000+0000"
+    },
+    {
+      "kod":"PJ",
+      "nama":"PERMIT PENJAJA",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":"1129",
+      "modDate":"2022-01-25T06:35:35.000+0000"
+    },
+    {
+      "kod":"PL",
+      "nama":"PERMIT PELESENAN",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":null,
+      "modDate":null
+    },
+    {
+      "kod":"PR",
+      "nama":"SEWA TAPAK IKLAN (TOL)",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":null,
+      "modDate":null
+    },
+    {
+      "kod":"PS",
+      "nama":"PERMIT STRUKTUR PAPAN IKLAN",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":null,
+      "modDate":null
+    },
+    {
+      "kod":"R",
+      "nama":"LESEN SEMENTARA PEMUTIHAN LUAR BANDAR",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":null,
+      "modDate":null
+    },
+    {
+      "kod":"S",
+      "nama":"LESEN SEMENTARA (PENJAJA)",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":null,
+      "modDate":null
+    },
+    {
+      "kod":"T",
+      "nama":"LESEN SEMENTARA PEMUTIHAN BANDAR",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":null,
+      "modDate":null
+    },
+    {
+      "kod":"Z",
+      "nama":"LESEN SEMENTARA (PELESENAN)",
+      "kategori":-1,
+      "sensitif":"A",
+      "modOpr":"inshirah",
+      "modDate":"2021-12-22T07:09:32.000+0000"
+    }
+  ]
+}
